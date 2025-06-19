@@ -3,13 +3,13 @@
 > **Premium FiveM Resources**
 
 <p align="center">
-  <img src="./FLUX_LOGO.png" alt="Flux Scripts Logo" width="200"/>
+  <img src="https://github.com/Flux-Solution/.github/blob/main/FLUX_LOGO.png?raw=true" alt="Flux Scripts Logo" width="200"/>
   <img src="https://img.shields.io/badge/FiveM-Scripts-blue?style=for-the-badge" alt="FiveM Scripts"/>
   <img src="https://img.shields.io/badge/Support-24/7-purple?style=for-the-badge" alt="24/7 Support"/>
   <img src="https://img.shields.io/badge/Customers-1000%2B-pink?style=for-the-badge" alt="1000+ Customers"/>
   <br/>
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License"/>
-  <a href="https://discord.gg/yourdiscord"><img src="https://img.shields.io/badge/Discord-Join-7289DA?logo=discord&style=for-the-badge" alt="Join Discord"/></a>
+  <a href="https://discord.gg/fluxfivem"><img src="https://img.shields.io/badge/Discord-Join-7289DA?logo=discord&style=for-the-badge" alt="Join Discord"/></a>
 </p>
 
 <h1 align="center">🚀 Elevate Your <span style="color:#4F8CFF">FiveM Server</span> with Flux Scripts</h1>
@@ -26,16 +26,14 @@
 
 ---
 
-<pre align="center">
-<code>
+<p align="center">
 ███████╗██╗     ██╗   ██╗██╗  ██╗
 ██╔════╝██║     ██║   ██║╚██╗██╔╝
 █████╗  ██║     ██║   ██║ ╚███╔╝ 
 ██╔══╝  ██║     ██║   ██║ ██╔██╗ 
 ██║     ███████╗╚██████╔╝██╔╝ ██╗
 ╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
-</code>
-</pre>
+</p>
 
 ---
 
@@ -97,7 +95,7 @@ Flux Scripts is your one-stop shop for high-quality, optimized FiveM scripts. We
      ensure flux-loadingscreen
      ```
 4. **Need Help?**
-   - Join our [Discord](https://discord.gg/yourdiscord) for support and community tips.
+   - Join our [Discord](https://discord.gg/fluxfivem) for support and community tips.
 
 ---
 
@@ -122,7 +120,7 @@ We welcome contributions from the community!
 
 <details>
 <summary><b>How do I get support?</b></summary>
-Join our [Discord](https://discord.gg/yourdiscord) and open a ticket in the support channel.
+Join our [Discord](https://discord.gg/fluxfivem) and open a ticket in the support channel.
 </details>
 
 <details>
@@ -139,7 +137,7 @@ All script updates are free for existing customers.
 
 ## 🌐 Community
 - [Website](https://fluxscripts.dev)
-- [Discord](https://discord.gg/yourdiscord)
+- [Discord](https://discord.gg/fluxfivem)
 - [Support](#)
 
 ---
