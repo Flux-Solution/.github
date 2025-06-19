@@ -4,6 +4,8 @@
 
 <p align="center">
   <img src="https://github.com/Flux-Solution/.github/blob/main/FLUX_LOGO.png?raw=true" alt="Flux Scripts Logo" width="200"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/FiveM-Scripts-blue?style=for-the-badge" alt="FiveM Scripts"/>
   <img src="https://img.shields.io/badge/Support-24/7-purple?style=for-the-badge" alt="24/7 Support"/>
   <img src="https://img.shields.io/badge/Customers-1000%2B-pink?style=for-the-badge" alt="1000+ Customers"/>
@@ -26,14 +28,13 @@
 
 ---
 
-<p align="center">
-███████╗██╗     ██╗   ██╗██╗  ██╗
-██╔════╝██║     ██║   ██║╚██╗██╔╝
-█████╗  ██║     ██║   ██║ ╚███╔╝ 
-██╔══╝  ██║     ██║   ██║ ██╔██╗ 
-██║     ███████╗╚██████╔╝██╔╝ ██╗
-╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝
-</p>
+<p align="center">███████╗██╗     ██╗   ██╗██╗  ██╗</p>
+<p align="center">██╔════╝██║     ██║   ██║╚██╗██╔╝</p>
+<p align="center">█████╗  ██║     ██║   ██║ ╚███╔╝ </p>
+<p align="center">██╔══╝  ██║     ██║   ██║ ██╔██╗ </p>
+<p align="center">██║     ███████╗╚██████╔╝██╔╝ ██╗</p>
+<p align="center">╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝</p>
+
 
 ---
 
