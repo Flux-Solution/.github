@@ -1,10 +1,7 @@
-# Flux Scripts
-
-> **Premium FiveM Resources**
-
 <p align="center">
   <img src="https://github.com/Flux-Solution/.github/blob/main/FLUX_LOGO.png?raw=true" alt="Flux Scripts Logo" width="200"/>
 </p>
+<h1 align="center">FLUX SCRIPTS</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/FiveM-Scripts-blue?style=for-the-badge" alt="FiveM Scripts"/>
   <img src="https://img.shields.io/badge/Support-24/7-purple?style=for-the-badge" alt="24/7 Support"/>
@@ -28,12 +25,12 @@
 
 ---
 
-<p align="center">███████╗██╗     ██╗   ██╗██╗  ██╗</p>
-<p align="center">██╔════╝██║     ██║   ██║╚██╗██╔╝</p>
-<p align="center">█████╗  ██║     ██║   ██║ ╚███╔╝ </p>
-<p align="center">██╔══╝  ██║     ██║   ██║ ██╔██╗ </p>
-<p align="center">██║     ███████╗╚██████╔╝██╔╝ ██╗</p>
-<p align="center">╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝</p>
+<p align="center"><pre><code>███████╗██╗     ██╗   ██╗██╗  ██╗</pre></code></p>
+<p align="center"><pre><code>██╔════╝██║     ██║   ██║╚██╗██╔╝</pre></code></p>
+<p align="center"><pre><code>█████╗  ██║     ██║   ██║ ╚███╔╝ </pre></code></p>
+<p align="center"><pre><code>██╔══╝  ██║     ██║   ██║ ██╔██╗ </pre></code></p>
+<p align="center"><pre><code>██║     ███████╗╚██████╔╝██╔╝ ██╗</pre></code></p>
+<p align="center"><pre><code>╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝</pre></code></p>
 
 
 ---
