@@ -126,7 +126,7 @@ All script updates are free for existing customers.
 ## 🌐 Community
 - [Website](https://fluxscripts.dev)
 - [Discord](https://discord.gg/fluxfivem)
-- [Support](#)
+- [Documentation](https://docs.fluxfivem.dev/)
 
 ---
 
